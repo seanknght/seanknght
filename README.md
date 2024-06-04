@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Sean Knight</h1>
-<h3 align="center">Cybersecurity_major</h3>
 
 <p align="left"> <a href="https://twitter.com/seanknght" target="blank"><img src="https://img.shields.io/twitter/follow/seanknght?logo=twitter&style=for-the-badge" alt="seanknght" /></a> </p>
 
