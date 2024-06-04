@@ -1,10 +1,8 @@
 <h1 align="center">Hi 👋, I'm Sean Knight</h1>
 
-<p align="left"> <a href="https://twitter.com/seanknght" target="blank"><img src="https://img.shields.io/twitter/follow/seanknght?logo=twitter&style=for-the-badge" alt="seanknght" /></a> </p>
-
 - 🌱 I’m currently learning **Cybersecurity**
 
-- 📝 I regularly write articles on [https://medium.com/@seanknght](https://medium.com/@seanknght)
+- 📝 I write articles on [https://medium.com/@seanknght](https://medium.com/@seanknght)
 
 - 📫 How to reach me **seanknght@proton.me**
 
