@@ -20,5 +20,3 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=seanknght&show_icons=true&locale=en" alt="seanknght" /></p>
 
-https://developer.mozilla.org/en-US/docs/Web/JavaScript
-https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg
