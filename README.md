@@ -1,7 +1,9 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=courier+new&color=0BF700&lines=Hello!+My+name+is+Sean!;A.K.A+T3KK5)](https://git.io/typing-svg)
 
 - 🌱 I’m currently learning **Cybersecurity**
-<script src="https://tryhackme.com/badge/2183526"></script>
+
+<img src="https://tryhackme-badges.s3.amazonaws.com/T3kk5.png" alt="TryHackMe">
+
 
 - 📝 I write articles on [https://medium.com/@seanknght](https://medium.com/@seanknght)
 
