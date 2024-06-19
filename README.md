@@ -2,11 +2,7 @@
 
 - 🌱 I’m currently learning **Cybersecurity**
 
-<body>
-    <h1>Check out my TryHackMe Badge!</h1>
-    <script src="https://tryhackme.com/badge/2183526"></script>
-</body>
-
+![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/T3kk5.png)
 
 - 📝 I write articles on [https://medium.com/@seanknght](https://medium.com/@seanknght)
 
