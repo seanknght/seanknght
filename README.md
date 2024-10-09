@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=courier+new&color=0BF700&lines=Hello!+My+name+is+Sean!;A.K.A+T3KK5)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=courier+new&color=0BF700&lines=Hack+the+planet)](https://git.io/typing-svg)
 
 - 🌱 I’m currently learning **Cybersecurity**
 
